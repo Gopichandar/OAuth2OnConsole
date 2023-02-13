@@ -32,4 +32,4 @@ If you would like to contribute to this project, please submit a pull request wi
 License
 -------
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Gopichandar/OAuth2OnConsole/blob/main/LICENSE) file for details.
