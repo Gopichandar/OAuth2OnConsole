@@ -28,9 +28,9 @@ where `<client id>` and `<client secret>` are the client ID and secret provided 
 Contributing
 ------------
 
-If you'd like to contribute to this project, please follow the [contributing guidelines](https://chat.openai.com/CONTRIBUTING.md).
+If you would like to contribute to this project, please submit a pull request with your changes.
 
 License
 -------
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+This project is licensed under the MIT License.
