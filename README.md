@@ -19,7 +19,6 @@ To install the app, clone the repository and open the solution in Visual Studio.
 
 To use the app, run the following command:
 
-pythonCopy code
 
 `dotnet run --client-id <client id> --client-secret <client secret>`
 
